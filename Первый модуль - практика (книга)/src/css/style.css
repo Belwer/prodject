@@ -1,0 +1,24 @@
+/* селектор {
+    свойство: значение;
+    свойство: значение;
+    свойство: значение;
+} */
+
+body {
+    background-color: rgb(255, 255, 224);
+}
+.btext {
+    text-transform:uppercase;
+}
+h1 {
+    text-align: center;
+    color: rgb(204,0,0);
+}
+.text {
+    font-style: italic;
+}
+.h1ot {
+    display: block;
+    margin: 0 auto;
+    padding: 20px 0 0 0;
+}
