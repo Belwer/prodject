@@ -1,0 +1,11 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,CAAC,AAAC,CACD,WAAW,CAAE,wBAAwB,CAAG,AAKzC,AAAA,MAAM,AAAC,CACN,SAAS,CAAE,IAAI,CACf,WAAW,CAAE,uBAAuB,CAAG,AACxC,AAAA,IAAI,AAAC,CACJ,SAAS,CAAE,IAAI,CACf,WAAW,CAAE,uBAAuB,CACpC,KAAK,CAAE,IAAI,CAAG",
+    "sources": [
+        "../sass/style.sass",
+        "../sass/_variables.sass",
+        "../sass/_mixins.sass"
+    ],
+    "names": [],
+    "file": "style.min.css"
+}
